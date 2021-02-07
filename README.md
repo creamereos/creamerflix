@@ -2,10 +2,10 @@
 
 ## Screens
 
-- [ ] Home
-- [ ] TV Shows
-- [ ] Serch
-- [ ] Detail
+- [x] Home
+- [x] TV Shows
+- [x] Serch
+- [x] Detail
 
 ## API Verbs
 
